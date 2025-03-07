@@ -1,0 +1,4 @@
+Starting Wav2Vec2 fine-tuning...
+Using device: Tesla P100-PCIE-16GB
+ Updated model vocab size: 46
+Detailed performance metrics for this job will be available at https://metrics.hpc.arizona.edu/#job_viewer?action=show&realm=SUPREMM&resource_id=5&local_job_id=3730745 by 8am on 2025/03/08.

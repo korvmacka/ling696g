@@ -1,0 +1,7 @@
+Starting Wav2Vec2 fine-tuning...
+Using device: Tesla P100-PCIE-16GB
+ Updated model vocab size: 46
+{'loss': 0.1845, 'learning_rate': 9.317711922811855e-05, 'epoch': 0.34}
+{'loss': 0.1396, 'learning_rate': 8.628532046864232e-05, 'epoch': 0.69}
+{'eval_loss': 0.08294590562582016, 'eval_runtime': 77.15, 'eval_samples_per_second': 16.721, 'eval_steps_per_second': 2.1, 'epoch': 1.0}
+Detailed performance metrics for this job will be available at https://metrics.hpc.arizona.edu/#job_viewer?action=show&realm=SUPREMM&resource_id=5&local_job_id=3730756 by 8am on 2025/03/08.
